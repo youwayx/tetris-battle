@@ -1088,6 +1088,7 @@ def menu (page):
     quitbutton = image.load("menu pics/quit.png")
     
     screen.blit (intro,(0,0))
+    display.set_caption("Tetris Battle", "tetris battle")
     while running:
         for evnt in event.get():
             if evnt.type == QUIT:
