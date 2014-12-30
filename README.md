@@ -6,6 +6,8 @@ Tetris Battle is a Python/Pygame replica of the popular Facebook [Game](https://
 This version of Tetris Battle is made so that two players play on the same keyboard. 
 
 ![Alt text](startmenu.png "Start menu")
+
+
 ![Alt text](gameplay.png "Gameplay")
 
 In order to run this application, Python 2.7 IDE and Pygame for Python 2.7 must be installed. 
